@@ -3,4 +3,6 @@
 *.txt
 livres/*
 __pycache__
-chroma_db_local
+chroma_db
+prompt
+relations
