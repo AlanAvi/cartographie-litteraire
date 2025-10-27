@@ -1,7 +1,7 @@
 *.epub
 *.pdf
 *.txt
-livres/*
+livres
 __pycache__
 chroma_db
 prompt

@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 import ebooklib
 
 def pdf_to_txt(pdf_path):
+    """
+    Convertit un texte au format pdf en chaine de caractères.
+    """
     texte = ""
     with fitz.open(pdf_path) as doc:
         for page in doc:
@@ -12,6 +15,9 @@ def pdf_to_txt(pdf_path):
     return texte
 
 def epub_to_txt(epub_path):
+    """
+    Convertit un texte au format epub en chaine de caractères.
+    """
     book = epub.read_epub(epub_path)
     texte = ""
     for item in book.get_items():
@@ -21,6 +27,9 @@ def epub_to_txt(epub_path):
     return texte
 
 def convert(chemin_entree):
+    """
+    Convertit un texte au format pdf, txt ou epub en chaine de caractères.
+    """
     ext = os.path.splitext(chemin_entree)[1].lower()
 
     if ext == ".pdf":

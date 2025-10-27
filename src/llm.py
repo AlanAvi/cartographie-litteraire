@@ -85,12 +85,12 @@ llm = Ollama(model=OLLAMA_MODEL, temperature=0)
 # ===================== FONCTIONS =====================
 def is_name_in_text(name: str, text: str) -> bool:
     """
-    Vérifie si un nom (ou un de ses aliases) apparaît littéralement dans le texte.
+    Vérifie si name apparaît littéralement dans text.
     Tolère les variations de casse, mais PAS les paraphrases.
     """
     if not name.strip():
         return False
-    # Échappe les caractères spéciaux pour regex
+
     pattern = re.escape(name.strip())
     return bool(re.search(rf'\b{pattern}\b', text, re.IGNORECASE))
 
