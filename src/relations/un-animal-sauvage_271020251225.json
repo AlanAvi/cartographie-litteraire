@@ -1,0 +1,461 @@
+[
+  {
+    "id": "char_ba27dc98",
+    "nom_complet": "Sophie",
+    "aliases": [
+      "la petite salope",
+      "Léa"
+    ],
+    "relations": [
+      {
+        "id": "char_75f3022e",
+        "type_de_la_relation": "collaboratrice",
+        "evidence": null
+      },
+      {
+        "id": "char_7f740092",
+        "type_de_la_relation": "client",
+        "evidence": null
+      },
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "amour",
+        "evidence": null
+      },
+      {
+        "id": "char_9761ee8e",
+        "type_de_la_relation": "complice",
+        "evidence": null
+      },
+      {
+        "id": "char_9761ee8e",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "époux",
+        "evidence": null
+      },
+      {
+        "id": "char_7f740092",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "mariage",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "amant",
+        "evidence": null
+      },
+      {
+        "id": "char_9761ee8e",
+        "type_de_la_relation": "amour",
+        "evidence": null
+      },
+      {
+        "id": "char_73f803dd",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_73f803dd",
+    "nom_complet": "Karine",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "epoux",
+        "evidence": null
+      },
+      {
+        "id": "char_a0028584",
+        "type_de_la_relation": "mère de Karine",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "conjoint",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_b7404d85",
+        "type_de_la_relation": "conjoint",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_75f3022e",
+    "nom_complet": "Véronique",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "collaboratrice",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_e1e23aed",
+    "nom_complet": "Greg",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_73f803dd",
+        "type_de_la_relation": "epoux",
+        "evidence": null
+      },
+      {
+        "id": "char_a0028584",
+        "type_de_la_relation": "beau-père",
+        "evidence": null
+      },
+      {
+        "id": "char_73f803dd",
+        "type_de_la_relation": "conjoint",
+        "evidence": null
+      },
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "compagnon de cellule",
+        "evidence": null
+      },
+      {
+        "id": "char_73f803dd",
+        "type_de_la_relation": "conjoint(e)",
+        "evidence": null
+      },
+      {
+        "id": "char_a92f33f9",
+        "type_de_la_relation": "adversaire",
+        "evidence": null
+      },
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_73f803dd",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_d34f15e6",
+        "type_de_la_relation": "amour",
+        "evidence": null
+      },
+      {
+        "id": "char_5daeae16",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "amitié",
+        "evidence": null
+      },
+      {
+        "id": "char_f8f410a9",
+        "type_de_la_relation": "obsédé",
+        "evidence": null
+      },
+      {
+        "id": "char_73f803dd",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_ceb28e21",
+        "type_de_la_relation": "employeur",
+        "evidence": null
+      },
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_a0028584",
+    "nom_complet": "Agnès",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "mère de Greg",
+        "evidence": null
+      },
+      {
+        "id": "char_73f803dd",
+        "type_de_la_relation": "femme de Greg",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_8be8ae78",
+    "nom_complet": "Arpad",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "amour",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "compagnon de cellule",
+        "evidence": null
+      },
+      {
+        "id": "char_9761ee8e",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_9761ee8e",
+        "type_de_la_relation": "amant",
+        "evidence": null
+      },
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_e4a448dc",
+        "type_de_la_relation": "parent",
+        "evidence": null
+      },
+      {
+        "id": "char_0d82d358",
+        "type_de_la_relation": "parent",
+        "evidence": null
+      },
+      {
+        "id": "char_9761ee8e",
+        "type_de_la_relation": "liaison",
+        "evidence": null
+      },
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "mariage",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "amitié",
+        "evidence": null
+      },
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "complice",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_9b56c745",
+    "nom_complet": "Philippe Carral",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "compagnon de cellule",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_9761ee8e",
+    "nom_complet": "Fauve",
+    "aliases": [
+      "Ton Fauve"
+    ],
+    "relations": [
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "amante",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_a92f33f9",
+    "nom_complet": "Arpad Braun",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "adversaire",
+        "evidence": null
+      },
+      {
+        "id": "char_9b56c745",
+        "type_de_la_relation": "complice",
+        "evidence": null
+      },
+      {
+        "id": "char_9761ee8e",
+        "type_de_la_relation": "amant",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_e4a448dc",
+    "nom_complet": "Léa",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "parent",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_0d82d358",
+    "nom_complet": "Isaak",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "parent",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_7f740092",
+    "nom_complet": "Samuel Hennel",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_ba27dc98",
+        "type_de_la_relation": "client",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_1ddff622",
+    "nom_complet": "Bernard",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_8be8ae78",
+        "type_de_la_relation": "employeur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_d34f15e6",
+    "nom_complet": "Marion",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "amour",
+        "evidence": null
+      },
+      {
+        "id": "char_b7404d85",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_5daeae16",
+    "nom_complet": "Marion Brullier",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_b7404d85",
+    "nom_complet": "Greg Liégean",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_d34f15e6",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_ceb28e21",
+    "nom_complet": "Natalia",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_e1e23aed",
+        "type_de_la_relation": "employeur",
+        "evidence": null
+      }
+    ]
+  }
+]

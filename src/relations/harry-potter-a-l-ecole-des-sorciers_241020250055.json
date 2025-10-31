@@ -1,0 +1,689 @@
+[
+  {
+    "id": "char_1ef925d1",
+    "nom_complet": "Mrs Dursley",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_0264c597",
+        "type_de_la_relation": "conjoint",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_593831d3",
+    "nom_complet": "Dudley",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_0264c597",
+        "type_de_la_relation": "parent",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_251fe3ed",
+    "nom_complet": "Granger",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_d0bf7595",
+    "nom_complet": "Ron",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "amical",
+        "evidence": null
+      },
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "amical",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "amis",
+        "evidence": null
+      },
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "amis",
+        "evidence": null
+      },
+      {
+        "id": "char_e6fcb5c2",
+        "type_de_la_relation": "frère",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "frère",
+        "evidence": null
+      },
+      {
+        "id": "char_e6fcb5c2",
+        "type_de_la_relation": "famille",
+        "evidence": null
+      },
+      {
+        "id": "char_616f9cf9",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_0905dcf1",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_bea1b375",
+        "type_de_la_relation": "élève",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "amitié",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_bea1b375",
+    "nom_complet": "McGonagall",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "professeur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_0905dcf1",
+    "nom_complet": "Malefoy",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "ennemical",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_616f9cf9",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "adversaire",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_9d3e62ef",
+    "nom_complet": "Harry",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "mentor",
+        "evidence": null
+      },
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "amical",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "amical",
+        "evidence": null
+      },
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "amis",
+        "evidence": null
+      },
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "protégé",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "frère",
+        "evidence": null
+      },
+      {
+        "id": "char_e6fcb5c2",
+        "type_de_la_relation": "famille",
+        "evidence": null
+      },
+      {
+        "id": "char_7e1f8b72",
+        "type_de_la_relation": "élève",
+        "evidence": null
+      },
+      {
+        "id": "char_0905dcf1",
+        "type_de_la_relation": "adversaire",
+        "evidence": null
+      },
+      {
+        "id": "char_616f9cf9",
+        "type_de_la_relation": "protégé",
+        "evidence": null
+      },
+      {
+        "id": "char_0905dcf1",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_616f9cf9",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_32a5d1b3",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_bea1b375",
+        "type_de_la_relation": "professeur",
+        "evidence": null
+      },
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "directeur",
+        "evidence": null
+      },
+      {
+        "id": "char_32a5d1b3",
+        "type_de_la_relation": "assistant",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_4b2637c3",
+    "nom_complet": "Hermione",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "amical",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "amical",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "amis",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "amis",
+        "evidence": null
+      },
+      {
+        "id": "char_63654a12",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_32a5d1b3",
+    "nom_complet": "Hagrid",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "mentor",
+        "evidence": null
+      },
+      {
+        "id": "char_209bde79",
+        "type_de_la_relation": "parental",
+        "evidence": null
+      },
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "protégé",
+        "evidence": null
+      },
+      {
+        "id": "char_8cfc3903",
+        "type_de_la_relation": "mission",
+        "evidence": null
+      },
+      {
+        "id": "char_7e1f8b72",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "garde-chasse",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "assistant",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_e3aaf3c3",
+    "nom_complet": "Quirrell",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_444a4306",
+    "nom_complet": "Touffu",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_41eb6e89",
+    "nom_complet": "Charlie",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "fraternel",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_209bde79",
+    "nom_complet": "Norbert",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_32a5d1b3",
+        "type_de_la_relation": "parental",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_c140c18f",
+    "nom_complet": "Dumbledore",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "protégé",
+        "evidence": null
+      },
+      {
+        "id": "char_4f41fcaf",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_bea1b375",
+        "type_de_la_relation": "collègue",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "directeur",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "mentor",
+        "evidence": null
+      },
+      {
+        "id": "char_f78b0aca",
+        "type_de_la_relation": "collaborateur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_e6fcb5c2",
+    "nom_complet": "Weasley",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "frère",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_616f9cf9",
+    "nom_complet": "Neville",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_32a5d1b3",
+        "type_de_la_relation": "protégé",
+        "evidence": null
+      },
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_96edad7b",
+    "nom_complet": "Tom",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_32a5d1b3",
+        "type_de_la_relation": "friend",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_0c6ffc0e",
+    "nom_complet": "Percy",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_0120f17e",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_63654a12",
+    "nom_complet": "Rogue",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_dd21c7f1",
+        "type_de_la_relation": "cherche",
+        "evidence": null
+      },
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_4b2637c3",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_4f41fcaf",
+    "nom_complet": "Hermione Granger",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_d14e3ff5",
+    "nom_complet": "Miss Teigne",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_b6be2001",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_f187c98b",
+    "nom_complet": "Bathilda Tourdesac",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_8cfc3903",
+        "type_de_la_relation": "auteur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_ba4d2d10",
+    "nom_complet": "Adalbert Lasornette",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_8cfc3903",
+        "type_de_la_relation": "auteur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_f985e27f",
+    "nom_complet": "Phyllida Augirolle",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_8cfc3903",
+        "type_de_la_relation": "auteur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_ebef1d9b",
+    "nom_complet": "Arsenius Beaulitron",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_8cfc3903",
+        "type_de_la_relation": "auteur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_354d9fa2",
+    "nom_complet": "Nigaud",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_23460fb4",
+    "nom_complet": "Grasdouble",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_bb6bf4e0",
+    "nom_complet": "Bizarre",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_1642fe8b",
+    "nom_complet": "Pinçon",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_c140c18f",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_df01d04a",
+    "nom_complet": "Fred Weasley",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9d3e62ef",
+        "type_de_la_relation": "frère",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_61224231",
+    "nom_complet": "Morgane",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_d0bf7595",
+        "type_de_la_relation": "collection",
+        "evidence": null
+      }
+    ]
+  }
+]

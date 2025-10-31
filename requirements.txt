@@ -1,0 +1,23 @@
+# Analyse et conversion de fichiers
+PyMuPDF
+ebooklib
+beautifulsoup4
+slugify
+pydantic
+
+# LangChain et LLM
+langchain
+langchain-community
+
+# Embeddings et vectorisation
+sentence-transformers
+chromadb
+ollama
+
+# Graphes et visualisation
+networkx
+matplotlib
+tkinter
+
+# Utilitaires
+typing-extensions

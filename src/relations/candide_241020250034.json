@@ -1,0 +1,358 @@
+[
+  {
+    "id": "char_a51672a8",
+    "nom_complet": "Candide",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_15967043",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_6c5e0974",
+        "type_de_la_relation": "amoureux",
+        "evidence": null
+      },
+      {
+        "id": "char_d35abaa4",
+        "type_de_la_relation": "valet",
+        "evidence": null
+      },
+      {
+        "id": "char_4fa9de3c",
+        "type_de_la_relation": "hôte",
+        "evidence": null
+      },
+      {
+        "id": "char_255c2896",
+        "type_de_la_relation": "",
+        "evidence": null
+      },
+      {
+        "id": "char_9428671d",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_255c2896",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_de340966",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_d35abaa4",
+        "type_de_la_relation": "compagnon",
+        "evidence": null
+      },
+      {
+        "id": "char_255c2896",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_a5d7ac4c",
+    "nom_complet": "La vieille",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_6c5e0974",
+        "type_de_la_relation": "madame",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_15967043",
+    "nom_complet": "Pangloss",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_f70da70f",
+    "nom_complet": "Le matelot",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_15967043",
+        "type_de_la_relation": "accompagné",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "accompagné",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_6c5e0974",
+    "nom_complet": "Cunégonde",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "amour",
+        "evidence": null
+      },
+      {
+        "id": "char_15967043",
+        "type_de_la_relation": "mort du bon anabaptiste et de",
+        "evidence": null
+      },
+      {
+        "id": "char_15967043",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "amoureux",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_fe412a59",
+    "nom_complet": "Jacques",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "charitable anabaptiste",
+        "evidence": null
+      },
+      {
+        "id": "char_15967043",
+        "type_de_la_relation": "employer",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "bienfaiteur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_d35abaa4",
+    "nom_complet": "Cacambo",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_e29ebf99",
+        "type_de_la_relation": "hôte",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "compagnon",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "valet",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_e29ebf99",
+    "nom_complet": "Le vieillard",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_d35abaa4",
+        "type_de_la_relation": "hôte",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "reçoit",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_255c2896",
+    "nom_complet": "Martin",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "accompagnateur",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "compagnon",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_15967043",
+        "type_de_la_relation": "conversateur",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_4fa9de3c",
+    "nom_complet": "Pococurante",
+    "aliases": [
+      "le Seigneur Pococurante"
+    ],
+    "relations": [
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "hôte",
+        "evidence": null
+      },
+      {
+        "id": "char_255c2896",
+        "type_de_la_relation": "hôte",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_2aeddb13",
+    "nom_complet": "Issacar",
+    "aliases": [],
+    "relations": []
+  },
+  {
+    "id": "char_88f6d62d",
+    "nom_complet": "Monseigneur",
+    "aliases": [],
+    "relations": []
+  },
+  {
+    "id": "char_9428671d",
+    "nom_complet": "Paquette",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_de340966",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_de340966",
+    "nom_complet": "Frère Giroflée",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_9428671d",
+        "type_de_la_relation": "",
+        "evidence": null
+      },
+      {
+        "id": "char_9428671d",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_79e84f2d",
+    "nom_complet": "Charles Baudelaire",
+    "aliases": [],
+    "relations": []
+  },
+  {
+    "id": "char_0c38566a",
+    "nom_complet": "Arthur Conan Doyle",
+    "aliases": [],
+    "relations": []
+  },
+  {
+    "id": "char_f40b7d92",
+    "nom_complet": "Stéphane Mallarmé",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_79e84f2d",
+        "type_de_la_relation": "influence",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_e1f1c1d4",
+    "nom_complet": "Le roi des Bulgares",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "gracieux",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_c07ad133",
+    "nom_complet": "Mlle Cunégonde de Thunder-ten-tronckh",
+    "aliases": [],
+    "relations": [
+      {
+        "id": "char_a51672a8",
+        "type_de_la_relation": "amoureux",
+        "evidence": null
+      }
+    ]
+  }
+]

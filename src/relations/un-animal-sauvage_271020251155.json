@@ -1,0 +1,245 @@
+[
+  {
+    "id": "char_12345678",
+    "nom_complet": "Sophie",
+    "relations": [
+      {
+        "id": "char_23456789",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "collaboratrice",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "amoureux",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "liaison",
+        "evidence": null
+      },
+      {
+        "id": "char_45678901",
+        "type_de_la_relation": "maître",
+        "evidence": "C’était un message de Greg : Je fais un tour dans la forêt. Toujours OK pour un café ?"
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "parent",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "donateur",
+        "evidence": "Elle jouait avec un petit sac en velours que lui avait donné Fauve juste avant qu'Arpad ne débarque à la Cache."
+      },
+      {
+        "id": "char_45678901",
+        "type_de_la_relation": "connaissance",
+        "evidence": null
+      },
+      {
+        "id": "char_45678901",
+        "type_de_la_relation": "concerné",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "concerné",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "maître",
+        "evidence": "Ma Panthère, Ton Fauve"
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_67890123",
+        "type_de_la_relation": "concerné",
+        "evidence": "Est-ce qu’on pourra voir les policiers ?"
+      }
+    ]
+  },
+  {
+    "id": "char_23456789",
+    "nom_complet": "Karine",
+    "relations": [
+      {
+        "id": "char_45678901",
+        "type_de_la_relation": "conjoint",
+        "evidence": null
+      },
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      },
+      {
+        "id": "char_45678901",
+        "type_de_la_relation": "amour",
+        "evidence": null
+      },
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_45678901",
+        "type_de_la_relation": "conjoint(e)",
+        "evidence": null
+      },
+      {
+        "id": "char_45678901",
+        "type_de_la_relation": "maître",
+        "evidence": null
+      },
+      {
+        "id": "char_45678901",
+        "type_de_la_relation": "compagnon",
+        "evidence": "Karine et Greg sont ensemble."
+      },
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "maîtresse",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_34567890",
+    "nom_complet": "Natalia",
+    "relations": [
+      {
+        "id": "char_23456789",
+        "type_de_la_relation": "amie",
+        "evidence": null
+      },
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "concerné",
+        "evidence": "Il songea qu’il avait peut-être été naïf de s’y croire à l’abri."
+      }
+    ]
+  },
+  {
+    "id": "char_45678901",
+    "nom_complet": "Julien Martet",
+    "relations": [
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_23456789",
+        "type_de_la_relation": "conjoint",
+        "evidence": null
+      },
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "amant",
+        "evidence": null
+      },
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "protege",
+        "evidence": null
+      },
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "amical",
+        "evidence": null
+      },
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "concerné",
+        "evidence": "Quelques minutes plus tard, Greg entrait dans les vestiaires du groupe d’intervention..."
+      }
+    ]
+  },
+  {
+    "id": "char_56789012",
+    "nom_complet": "Cologny",
+    "relations": [
+      {
+        "id": "char_12345678",
+        "type_de_la_relation": "concerné",
+        "evidence": "Est-ce qu’on peut manger des bonbons pour le petit-déjeuner ?"
+      }
+    ]
+  },
+  {
+    "id": "char_67890123",
+    "nom_complet": "Isaak",
+    "relations": [
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "enfant",
+        "evidence": null
+      },
+      {
+        "id": "char_56789012",
+        "type_de_la_relation": "sœur",
+        "evidence": null
+      },
+      {
+        "id": "char_56789012",
+        "type_de_la_relation": "parent",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_89012345",
+    "nom_complet": "Jacqueline",
+    "relations": [
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "conjoint",
+        "evidence": null
+      },
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "parent",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_Le receleur estonien",
+    "nom_complet": "L’Estonien",
+    "relations": [
+      {
+        "id": "char_34567890",
+        "type_de_la_relation": "commanditaire",
+        "evidence": null
+      }
+    ]
+  }
+]

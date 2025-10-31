@@ -1,0 +1,113 @@
+[
+  {
+    "id": "char_61802c32",
+    "nom_complet": "Greg",
+    "relations": [
+      {
+        "id": "char_0c4460c1",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_624c0cc8",
+        "type_de_la_relation": "relation_autorisée",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_0c4460c1",
+    "nom_complet": "Sophie",
+    "relations": [
+      {
+        "id": "char_61802c32",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_b7c87929",
+        "type_de_la_relation": "relation_autorisée",
+        "evidence": null
+      },
+      {
+        "id": "char_87fe8208",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      },
+      {
+        "id": "char_cd34a3a6",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_624c0cc8",
+        "type_de_la_relation": "relation_autorisée",
+        "evidence": null
+      },
+      {
+        "id": "char_0c4460c1",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_b7c87929",
+    "nom_complet": "Arpad",
+    "relations": [
+      {
+        "id": "char_0c4460c1",
+        "type_de_la_relation": "relation_autorisée",
+        "evidence": null
+      },
+      {
+        "id": "char_cd34a3a6",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_61802c32",
+        "type_de_la_relation": "relation_autorisée",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_87fe8208",
+    "nom_complet": "Véronique",
+    "relations": [
+      {
+        "id": "char_0c4460c1",
+        "type_de_la_relation": "ami",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_cd34a3a6",
+    "nom_complet": "Fauve",
+    "relations": [
+      {
+        "id": "char_0c4460c1",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      },
+      {
+        "id": "char_b7c87929",
+        "type_de_la_relation": "ennemi",
+        "evidence": null
+      }
+    ]
+  },
+  {
+    "id": "char_624c0cc8",
+    "nom_complet": "Karine Liégean",
+    "relations": [
+      {
+        "id": "char_61802c32",
+        "type_de_la_relation": "relation_autorisée",
+        "evidence": null
+      }
+    ]
+  }
+]

@@ -1,8 +1,7 @@
-*.epub
-*.pdf
-*.txt
-livres
 __pycache__
 chroma_db
-prompt
-relations
+
+relations/*.json
+*.epub
+*.pdf
+livres/*.txt
