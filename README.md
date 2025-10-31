@@ -1,4 +1,4 @@
-# Explorateur de Relations Littéraires
+# Cartographie Littéraires
 
 Ce projet personnel a pour objectif de me permettre **d’apprendre et d’expérimenter** différentes technologies d’analyse de texte et de visualisation (LangChain, Ollama, embeddings, etc.).  
 **La précision des résultats n’est pas la priorité pour le moment** : le but principal est pédagogique.
